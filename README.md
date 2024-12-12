@@ -39,7 +39,7 @@ I had trouble figuring out how to pick specific parts from my game list. I also 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Sopheanith]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
