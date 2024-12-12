@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-https://github.com/user-attachments/assets/b7b13a9e-5f51-4733-a9c8-56f3876d3358
+![1](https://github.com/user-attachments/assets/8af79855-0176-49ca-a67a-166ddd898a0a)
+
 
 Here's a walkthrough of implemented features:
 
@@ -36,7 +37,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble figuring out how to pick specific parts from my game list. I also struggled with using a special tool called a ternary operator to change the text based on different situations and the game structure. 
 
 ## License
 
