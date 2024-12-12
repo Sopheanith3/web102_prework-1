@@ -1,4 +1,4 @@
-# WEB102 Prework - *SEA MONSTER Crowdfunding Game APP*
+![1](https://github.com/user-attachments/assets/c85bfa80-63d8-4241-b4b1-8d97cc40020a)# WEB102 Prework - *SEA MONSTER Crowdfunding Game APP*
 
 Submitted by: **Sopheanith Ny**
 
@@ -20,6 +20,8 @@ The following **optional** features are implemented:
 * [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+
+https://github.com/user-attachments/assets/b7b13a9e-5f51-4733-a9c8-56f3876d3358
 
 Here's a walkthrough of implemented features:
 
