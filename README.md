@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/c85bfa80-63d8-4241-b4b1-8d97cc40020a)# WEB102 Prework - *SEA MONSTER Crowdfunding Game APP*
+# WEB102 Prework - *SEA MONSTER Crowdfunding Game APP*
 
 Submitted by: **Sopheanith Ny**
 
