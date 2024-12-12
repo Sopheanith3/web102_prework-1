@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 ![1](https://github.com/user-attachments/assets/8af79855-0176-49ca-a67a-166ddd898a0a)
 
 
-Here's a walkthrough of implemented features:
+<!-- Here's a walkthrough of implemented features: -->
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
